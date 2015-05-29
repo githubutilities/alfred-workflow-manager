@@ -1,4 +1,4 @@
-# Workflow Manager for Alfred [Download](https://github.com/githubutilities/alfred-workflow-manager/releases/download/v0.1/Workflow_Manager_v0.1.alfredworkflow)
+# Workflow Manager for Alfred [[Download]](https://github.com/githubutilities/alfred-workflow-manager/releases/download/v0.1/Workflow_Manager_v0.1.alfredworkflow)
 
 
 ## Usage
