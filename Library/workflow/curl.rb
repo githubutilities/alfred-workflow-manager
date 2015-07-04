@@ -8,6 +8,10 @@ module Workflow
         puts workflow_download_link
         type = src.content_type
 
+        if !File.exists?("#{CACHES_DIRECTORY}")
+            puts `mkdir #{CACHES_DIRECTORY}`
+        end
+
         if type == "application/zip"
             filepath = '#{CACHES_DIRECTORY}/tmp.zip'
         else
